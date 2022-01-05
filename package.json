@@ -1,0 +1,16 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "Simple Random Password Generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Afrideen",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
